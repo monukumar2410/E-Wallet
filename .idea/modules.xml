@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ewallet-services/ewallet-services.iml" filepath="$PROJECT_DIR$/ewallet-services/ewallet-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewallet-services/notification-services/notification-services.iml" filepath="$PROJECT_DIR$/ewallet-services/notification-services/notification-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewallet-services/transaction-services/transaction-services.iml" filepath="$PROJECT_DIR$/ewallet-services/transaction-services/transaction-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/ewallet-services/user-services/user-services.iml" filepath="$PROJECT_DIR$/ewallet-services/user-services/user-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewallet-services/wallet-services/wallet-services.iml" filepath="$PROJECT_DIR$/ewallet-services/wallet-services/wallet-services.iml" />
     </modules>
   </component>
 </project>

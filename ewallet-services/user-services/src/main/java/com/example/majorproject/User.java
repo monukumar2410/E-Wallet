@@ -5,7 +5,7 @@ import lombok.NoArgsConstructor;
 import lombok.*;
 
 import javax.persistence.Entity;
-import javax.persistence.*;git
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
